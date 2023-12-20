@@ -38,7 +38,7 @@ import SideMenuItem from './components/SideMenuItem.vue'
     >
     <div class="w-full pl-6 pt-3 cursor-pointer">
       <RouterLink to="/">
-        <img width="130" src="/images/deezer-logo.png" alt="" />
+        <img width="170" class="m-1" src="/images/playonic-high-resolution-logo-transparent.png" alt="" />
       </RouterLink>
     </div>
     <div class="mt-[53px]"></div>
