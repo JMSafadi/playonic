@@ -28,7 +28,7 @@ import SideMenuItem from './components/SideMenuItem.vue'
       </div>
       <img 
         class="rounded-full w-[33px]"
-        src="https://yt3.ggpht.com/HW51QBSAgiw_-xNpqazAPlLtvqhVeVWRIo1pgmzKCrSs4dcnUcQJzggAxui7wU4jUIOQRHt7Qg=s88-c-k-c0x00ffffff-no-rj" 
+        src="https://yt3.ggpht.com/e9o-24_frmNSSVvjS47rT8qCHgsHNiedqgXbzmrmpsj6H1ketcufR1B9vLXTZRa30krRksPj=s48-c-k-c0x00ffffff-no-rj" 
         alt="profile-img">
     </div>
   </div>
