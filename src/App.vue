@@ -9,7 +9,6 @@ import SideMenuItem from './components/SideMenuItem.vue'
 </script>
 
 <template>
-
   <div 
     id="TopNav" 
     class="fixed right-0 flex items-center justify-between w-[calc(100%-240px)] h-[56px] border-b border-b-[#32323D]"
@@ -86,7 +85,7 @@ import SideMenuItem from './components/SideMenuItem.vue'
       </div>
     </div>
   </div>
-  <div class="fixed w-[calc(199%-240px) h-[calc(100%-56px) ml-[240px] mt-[56px] overflow-x-auto">
+  <div class="fixed w-[calc(100%-240px)] h-[calc(100%-56px)] ml-[240px] mt-[56px] overflow-x-auto">
     <RouterView/>
   </div>
 </template>
