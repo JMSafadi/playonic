@@ -47,7 +47,7 @@ const props = defineProps({ slide: Object })
             </div>
             <img 
               width="25" 
-              class="absolute z-40 right-0 pb-3 mr-3 contrast-[1.4 brightness-[1.1]"
+              class="absolute z-40 right-0 pb-3 mr-3 contrast-[1.4] brightness-[1.1]"
               src="/images/deezer-sound-icon.png"
               >
             <img class="rounded-md aspect-square" :src="slide.url" alt="">
